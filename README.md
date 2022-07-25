@@ -1,1 +1,1 @@
-# technical-showcase
+# Technical Showcase
