@@ -8,6 +8,9 @@
 
 `git config user.email <YOUR_EMAIL@GMAIL.COM>`
   
+## Clone New Project
+`git clone <URL>`
+ 
 ## Generate ssh-key and Add to Github
 * Open terminal
 * Paste the text `ssh-keygen`
