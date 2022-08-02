@@ -21,6 +21,6 @@
 
 - ### <a href="https://github.com/webdevlapani/demo-task-next">NextJs Boiler plate</a>
 
-- ### <a href="https://github.com/webdevlapani/crypto-app">ed Frameworks and Libraries: react-query, react-table, headless-ui, context provider, custom hooks, authentication, tailwind</a>
+- ### <a href="https://github.com/webdevlapani/crypto-app">react-query, react-table, headless-ui, context provider, custom hooks, authentication, tailwind</a>
 
 - ### <a href="https://github.com/webdevlapani/react-redux-typescript-auth-dashboard-demo-task/blob/main/src/common/middleWare.ts">axios interceptor example</a>
