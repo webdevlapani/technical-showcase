@@ -24,3 +24,6 @@
 - ### <a href="https://github.com/webdevlapani/crypto-app">react-query, react-table, headless-ui, context provider, custom hooks, authentication, tailwind</a>
 
 - ### <a href="https://github.com/webdevlapani/react-redux-typescript-auth-dashboard-demo-task/blob/main/src/common/middleWare.ts">axios interceptor example</a>
+
+- ### <a href="https://github.com/webdevlapani/technical-showcase/blob/main/react-component-pattern">List of react component pattern</a>
+
