@@ -15,4 +15,12 @@
 
 - ### <a href="https://github.com/webdevlapani/POC-customize-theme-antd-react">React antd theme customization</a>
 
+- ### <a href="https://github.com/webdevlapani/nextjs-redux-toolkit-demo-app">Next Js with reduxt toolkit</a>
 
+- ### <a href="https://github.com/webdevlapani/react-hooks-typescript">React Redux with Hook</a>
+
+- ### <a href="https://github.com/webdevlapani/demo-task-next">NextJs Boiler plate</a>
+
+- ### <a href="https://github.com/webdevlapani/crypto-app">ed Frameworks and Libraries: react-query, react-table, headless-ui, context provider, custom hooks, authentication, tailwind</a>
+
+- ### <a href="https://github.com/webdevlapani/react-redux-typescript-auth-dashboard-demo-task/blob/main/src/common/middleWare.ts">axios interceptor example</a>
