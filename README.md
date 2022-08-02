@@ -9,7 +9,7 @@
 
 - ### <a href="https://github.com/webdevlapani/POC-of-compound-pattern-react">Demo of Compound component of pattern of React</a>
 
-- ### <a href="https://github.com/webdevlapani/react-authorization-permissionguard">Authorization and Permission Guard work with React, Next and React Native or any ReactJs related Framework</a>
+- ### <a href="https://github.com/webdevlapani/react-authorization-permissionguard">Authorization and Permission Guard with React, Next and React Native or any ReactJs related Framework</a>
 
 - ### <a href="https://github.com/webdevlapani/POC-monorepo-microfrontend-ui-lib-nx">React Monorepo and Microfrontend with NX</a>
 
