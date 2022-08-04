@@ -35,12 +35,20 @@
 ### Create new Branch
 ` git checkout -b  <branch-name>`
 
+### Rename current Branch
+` git branch -m <newname> `
+
+### Rename a Branch while pointed any Branch
+` git branch -m <oldname> <newname> `
+
+### Delete local branch
+` git branch -d <branch> `
+
 ### Change Branch
 ` git checkout <branch-name> `
 
 ### Fetch all remote Branch
 ` git fetch --all `
-
 
 ### Reset last commit
 ` git reset HEAD~ `
