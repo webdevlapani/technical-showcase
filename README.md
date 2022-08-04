@@ -27,3 +27,6 @@
 
 - ### <a href="https://github.com/webdevlapani/technical-showcase/blob/main/react-component-pattern">List of react component pattern</a>
 
+- ### <a href="https://github.com/webdevlapani/technical-showcase/blob/main/displayContext-name.md">How to set displayContext Name</a>
+
+
