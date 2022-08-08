@@ -41,8 +41,11 @@
 ### Rename a Branch while pointed any Branch
 ` git branch -m <oldname> <newname> `
 
-### Delete local branch
-` git branch -d <branch> `
+### Delete local Branch
+` git branch -d <branch-name> `
+
+### Delete remote Branch
+` git push origin --delete <branch-name> `
 
 ### Change Branch
 ` git checkout <branch-name> `
